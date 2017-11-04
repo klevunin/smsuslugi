@@ -1,0 +1,19 @@
+{
+    "name": "klev/smsuslugi",
+    "type": "library",
+    "description": "sms-uslugi.ru api php",
+    "license": "MIT",
+    "keywords": ["sms-uslugi.ru", "sms-uslugi", "sms"],
+    "authors": [
+        {
+            "name": "Kirill Levunin",
+            "email": "klevunin@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Klev\\SmsUslugi\\": "src"
+        }
+    }
+}

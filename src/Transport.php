@@ -1,5 +1,7 @@
 <?php
 
+namespace Klev\SmsUslugi;
+
 class Transport
 {
 
